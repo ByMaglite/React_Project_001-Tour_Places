@@ -5,7 +5,7 @@ function Navbar() {
     return(
         <div className={styles["navbar"]}>
             <div >
-                <a href="#" className={styles["navbar-item"]}>About Us</a>
+                <a href="https://github.com/ByMaglite" className={styles["navbar-item"]}>About Us</a>
                 <a href="#" className={styles["navbar-item"]}>ForYou</a>
                 <a href="#" className={styles["navbar-item"]}>Services</a>
                 <a href="#" className={styles["navbar-item"]}>Blog</a>
