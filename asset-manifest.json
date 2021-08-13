@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Project_001-Tour_Places/static/css/main.93034bda.chunk.css",
+    "main.js": "/React_Project_001-Tour_Places/static/js/main.444a0c1c.chunk.js",
+    "main.js.map": "/React_Project_001-Tour_Places/static/js/main.444a0c1c.chunk.js.map",
+    "runtime-main.js": "/React_Project_001-Tour_Places/static/js/runtime-main.dbaa57ff.js",
+    "runtime-main.js.map": "/React_Project_001-Tour_Places/static/js/runtime-main.dbaa57ff.js.map",
+    "static/js/2.c21f0c7d.chunk.js": "/React_Project_001-Tour_Places/static/js/2.c21f0c7d.chunk.js",
+    "static/js/2.c21f0c7d.chunk.js.map": "/React_Project_001-Tour_Places/static/js/2.c21f0c7d.chunk.js.map",
+    "static/js/3.f59b60aa.chunk.js": "/React_Project_001-Tour_Places/static/js/3.f59b60aa.chunk.js",
+    "static/js/3.f59b60aa.chunk.js.map": "/React_Project_001-Tour_Places/static/js/3.f59b60aa.chunk.js.map",
+    "index.html": "/React_Project_001-Tour_Places/index.html",
+    "static/css/main.93034bda.chunk.css.map": "/React_Project_001-Tour_Places/static/css/main.93034bda.chunk.css.map",
+    "static/js/2.c21f0c7d.chunk.js.LICENSE.txt": "/React_Project_001-Tour_Places/static/js/2.c21f0c7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbaa57ff.js",
+    "static/js/2.c21f0c7d.chunk.js",
+    "static/css/main.93034bda.chunk.css",
+    "static/js/main.444a0c1c.chunk.js"
+  ]
+}
