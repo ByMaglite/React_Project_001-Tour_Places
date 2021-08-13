@@ -75,3 +75,5 @@ export const places = [
     placeText:"Start your Marrakech adventure in the Jemaa el-Fnaa, the main, open square in the Moroccan city. It's the gateway to the medina or old walled city. The square is like nowhere else in the world, presenting a constant show of humanity. There are musical performers, snake charmers, monkey trainers, amateur boxing matches, and transvestite belly dancers."
 },
 ];
+
+/*clean code is my job :) byMaglite*/

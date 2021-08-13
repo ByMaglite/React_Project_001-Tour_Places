@@ -14,3 +14,5 @@ function App() {
   );
 }
 export default App;
+
+/*clean code is important :) byMaglite*/
