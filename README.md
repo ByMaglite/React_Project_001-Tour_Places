@@ -5,6 +5,8 @@
 
 ## Description
 
+ My project is published at https://bymaglite.github.io/React_Project_001-Tour_Places/
+
 Project aims to create a tour places app.
 
 ## Problem Statement
